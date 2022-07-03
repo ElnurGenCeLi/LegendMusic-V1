@@ -34,7 +34,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 - Easy To Use! 😋
 
 ## 🔎 Inline Search Support
-- just type the bot username in any chat, example: "`@LegendMusicRobot Faded Alan Walker`", then bot will give you a results of the query you search in inline mode.
+- just type the bot username in any chat, example: "`@LegendMucisRobot Faded Alan Walker`", then bot will give you a results of the query you search in inline mode.
 
 ### Requirements 📝
 
@@ -50,7 +50,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 # Deployments :
 
 #### Deploy To Heroku 📡
-<a href="https://heroku.com/deploy?template=https://github.com/TamilBots/TamiliniMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/ElnurGenCeLi/LegendMusic-V1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a>
 #### Deploy To RailWay 🚄
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilBots%2FTamiliniMusic-railways)
 #### Deploy On Vps 🌐
@@ -91,11 +91,11 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/badge/How%20To%20Deploy-RAILWAY-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/youtube/views/zV1bV9w2iYU?style=social"></a>
 
-# Reach Me On Telegram : [🎸Raven music🎶](https:t.me/LegendMusicRobot)
+# Reach Me On Telegram : [🎸Genceli music🎶](https:t.me/LegendMucisRobot)
 
 ![logo](https://telegra.ph/file/8aa4444ae3a3cb65fc93a.jpg)
 
-## Made with ❤️ By [RavenBots](https://t.me/IegendMMC) 🤖
+## Made with ❤️ By [RavenBots](https://t.me/SecretMMC) 🤖
 
 # Report Any Error or Help Contact :
 
